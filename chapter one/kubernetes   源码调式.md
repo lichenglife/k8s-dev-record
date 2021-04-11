@@ -17,7 +17,7 @@
 
 -  通过正确配置  goland  Deployment 将服务器上的代码  pull 到  本地环境
 
-  ![1617094170134](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\1617094170134.png)
+  ![1617094170134](D:\workspace\GoWorks\src\github.com\k8s-dev-record\chapter one\png\1617094170134.png)
 
 - 修改编译脚本
 
@@ -98,7 +98,7 @@
 
 - 正确配置goland remot配置
 
-![1617097705628](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\1617097705628.png)
+![1617097705628](D:\workspace\GoWorks\src\github.com\k8s-dev-record\chapter one\png\1617097705628.png)
 
 - 移除正在集群中正在服务的kube-schedule 组件
 
@@ -139,7 +139,7 @@ API server listening at: 192.168.108.130:2345
 
 - 在goland中开启  remote debug 
 
-![1617101214568](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\1617101214568.png)
+![1617101214568](D:\workspace\GoWorks\src\github.com\k8s-dev-record\chapter one\png\1617101214568.png)
 
 
 
