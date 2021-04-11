@@ -28,7 +28,7 @@
 - 2.7 cache client
 - 2.8 informer 
 
-###### 第三章  CRD 与  adminssion webhook 开发
+##### 第三章  CRD 与  adminssion webhook 开发
 
 - 3.1   kubebuilder cronjob 示例解析
 
@@ -44,14 +44,14 @@
 
     
 
-###### 第四章  CRI 实现
+##### 第四章  CRI 实现
 
 - 4.1 pod 接口
 - 4.2 容器接口 
 - 4.3 镜像接口
 - 4.4 实现简单的CRI 
 
-###### 第四章  CNI  实现
+##### 第四章  CNI  实现
 
 - 5.1 CNI  概览
 - 5.2 CNI   命令与参数
@@ -60,19 +60,27 @@
 - 5.5  IP 地址分配
 - 5.6 动手实现 CNI
 
-###### 第六章  CSI  实现
+##### 第六章  CSI  实现
 
 - 6.1   CSI   概览
 - 6.3    CSI 具体分析
 - 6.4    动手实现  CSI 
 
-###### 第七章  扩展apiserver
+##### 第七章  扩展apiserver
 
-###### 第八章 定制kube-sheduler
+##### 第八章 定制kube-sheduler
 
-###### 第九章  定制kubelet
+##### 第九章  定制kubelet
 
-###### 第十章  开发 kubelet plugin 
+##### 第十章  开发 kubelet plugin 
+
+##### 第十一章  kubernets 存储原理
+
+##### 第十二章  kubernetes 网络原理
+
+##### 第十三章  kubectl 
+
+
 
 ## 目标
 
